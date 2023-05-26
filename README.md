@@ -6,10 +6,10 @@
 
 ---
 ### Skills
--☕️ Java, JPA, JSP, SpringBoot, JDBC, Servlets.
--🌐 HTML, CSS, JavaScript, Bootstrap, React, Node.
--🐍 Python, Django, Django REST Framework.
--🗄️ SQL, MySQL, PostgreSQL,
+- ☕️ Java, JPA, JSP, SpringBoot, JDBC, Servlets.
+- 🌐 HTML, CSS, JavaScript, Bootstrap, React, Node.
+- 🐍 Python, Django, Django REST Framework.
+- 🗄️ SQL, MySQL, PostgreSQL,
 
 ---
 - 🌱 I'm currently learning PHP, including the Laravel framework, and I'm excited to dive deeper into its features and functionalities. Laravel is a powerful and popular PHP framework that provides elegant syntax and a wide range of tools for building robust web applications.
