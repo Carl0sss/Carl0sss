@@ -2,9 +2,8 @@
 ---
 ### About me
 I'm a student at the University of El Salvador pursuing a Information Systems Engineering
-
-### Skills
 ---
+### Skills
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
