@@ -1,4 +1,12 @@
-### Hi there 👋, it's me Carlos take a look
+### Hi there 👋, it's me Carlos take a look at my work
+---
+### About me
+I'm a student at the University of El Salvador pursuing a Information Systems Engineering
+
+### Skills
+---
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
 
 <!--
 **Carl0sss/Carl0sss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
